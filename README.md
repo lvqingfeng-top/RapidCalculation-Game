@@ -1,4 +1,4 @@
-this is a puzzle math game by python which guided by educational psychology,it is helpful for developing the arithmetic skill of children.
+this is a rapid calculation game which guided by educational psychology,it is helpful for developing the arithmetic skill and intelligence of children.
 children always hate to learn arithmetic,especially the  multiplication and division.my nephew alway be angry when my sister force him to calculate some arithmetic problem,so
 my sister ask help to me.
 
