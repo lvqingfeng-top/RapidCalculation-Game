@@ -9,7 +9,7 @@ so I write this small game,build the immediately feedback which make the childre
 this is a v1.0 version,next,i will do:
 1、 add socket in it,so that children can play game together via internet.
 2、add equation problem,such as 5X+4=19，X=?.
-3、creat new skill.
+3、create new skill.
 4、optimize the gui.
 
 一、简介
@@ -27,8 +27,11 @@ this is a v1.0 version,next,i will do:
 （2）增加方程题（例如5X+4=19，X=?）
 （3）增加新道具
 （4）进一步优化gui。
-![开始界面](https://userblink.csdnimg.cn/20210218/lvqingfeng110/pic/364bd31a591993ce16d9774c0f10945e-0.png)
+
+四、游戏图片
+-
+![开始界面](https://img-blog.csdnimg.cn/20210218152542587.png)
 ![游戏界面](https://img-blog.csdnimg.cn/20210218152542629.png)
-![击中效果](https://userblink.csdnimg.cn/20210218/lvqingfeng110/pic/91fdd68f23938ce60b5f00915106ae8f-2.png)
-![帮助](https://userblink.csdnimg.cn/20210218/lvqingfeng110/pic/4c90ff53482ff50958f5af75d536c982-0.png)
-![帮助](https://userblink.csdnimg.cn/20210218/lvqingfeng110/pic/20d12fb2cc6fba32813d1140ae59c66f-3.png)
+![击中效果](https://img-blog.csdnimg.cn/20210218152542365.png)
+![帮助](https://img-blog.csdnimg.cn/20210218152542395.png)
+![帮助](https://img-blog.csdnimg.cn/20210218154253161.png)
